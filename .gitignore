@@ -8,4 +8,3 @@ DATA/app.db
 DATA/users.txt
 .streamlit/secrets.toml
 practice/
-W08_Lab.ipynb
